@@ -1,0 +1,44 @@
+body
+{
+	background-color: #abcdef;
+}
+.conteiner
+{
+	width: 100%;
+	
+}
+nav
+{
+	height:  65px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+	width: 1000px;
+	
+}
+ul > li 
+{
+	display: inline-block;
+	border-right: 1px dotted;
+	width:100px;
+	background-color: red;
+	list-style-type: none;
+	height: 70px;
+	margin-left:30px;
+	text-align: center;
+}
+ul a
+{
+	text-decoration: none;
+	color: white;
+	display: block;
+	
+	font-size: 15px;
+}
+article
+{
+	margin-top: 200px;
+	margin-left: auto;
+	margin-right: auto:
+		
+}
